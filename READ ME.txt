@@ -1,0 +1,16 @@
+=========================
+    PETUNJUK APLIKASI
+=========================
+
+1. Buat database dengan nama "lks" (tanpa petik. nama boleh lain, tapi atur juga di module koneksi vb.net) 
+2. Import .sql file
+3. File .sql ada di folder store/store/bin/debug dengan nama file "lks.sql"
+4. Atur odbc dengan database
+5. Login sebagai admin (akun dibawahnya). Lalu buat akun anda sendiri di form employee.
+
+-------------------------------------
+Akun ADMIN
+-------------------------------------
+email    : adizaenul2000@gmail.com
+password : Mamas09
+-------------------------------------
